@@ -1,0 +1,14 @@
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll.config
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\Contoso.Data.pdb
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\Contoso.Domain.pdb
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.xml
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.AssemblyReference.cache
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.CoreCompileInputs.cache
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.csproj.CopyComplete
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Data\obj\Debug\Contoso.Data.pdb

@@ -1,0 +1,25 @@
+﻿<form>
+    <h3>Student Create Form</h3>
+    <div class="form-group">
+        <label for="first-name">First Name</label>
+        <input ng-model="student.FirstName" type="text" id="first-name" class="form-control" placeholder="First Name" />
+    </div>
+    <div class="form-group">
+        <label for="last-name">Last Name</label>
+        <input ng-model="student.LastName" type="text" id="last-name" class="form-control" placeholder="Last Name" />
+    </div>
+    <div class="form-group">
+        <label for="role">Role</label>
+        <input ng-model="student.Role" type="text" id="role" class="form-control" placeholder="Role" />
+    </div>
+    <div class="form-group">
+        <label for="department">Department</label>
+        <input ng-model="student.Department" type="text" id="department" class="form-control" placeholder="Department" />
+    </div>
+    <div class="form-group">
+        <label for="photo">Photo</label>
+        <input contoso-files="getStudentPhoto($files)" type="file" name="photo"  />
+    </div>
+
+    <button ng-click="saveStudent(student)" type="button" class="btn btn-primary">Submit</button>
+</form>

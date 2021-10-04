@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Contoso.Web", "Contoso.Web\", "{A939132E-1BA1-4019-B5AD-44E92C29617D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50672"
+		Debug.AspNetCompiler.PhysicalPath = "Contoso.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50672\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50672"
+		Release.AspNetCompiler.PhysicalPath = "Contoso.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50672\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50672"
+		SlnRelativePath = "Contoso.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.API", "Contoso.API\Contoso.API.csproj", "{8C681DA8-0BC5-4BBE-899A-197206C47AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Domain", "Contoso.Domain\Contoso.Domain.csproj", "{66D7D47B-13D9-4317-8C56-5397E151317B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Data", "Contoso.Data\Contoso.Data.csproj", "{A3278B80-0B5E-44BE-A8CA-42FB6A18027F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A939132E-1BA1-4019-B5AD-44E92C29617D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A939132E-1BA1-4019-B5AD-44E92C29617D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A939132E-1BA1-4019-B5AD-44E92C29617D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A939132E-1BA1-4019-B5AD-44E92C29617D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8C681DA8-0BC5-4BBE-899A-197206C47AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C681DA8-0BC5-4BBE-899A-197206C47AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C681DA8-0BC5-4BBE-899A-197206C47AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C681DA8-0BC5-4BBE-899A-197206C47AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D7D47B-13D9-4317-8C56-5397E151317B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D7D47B-13D9-4317-8C56-5397E151317B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D7D47B-13D9-4317-8C56-5397E151317B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D7D47B-13D9-4317-8C56-5397E151317B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3278B80-0B5E-44BE-A8CA-42FB6A18027F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3278B80-0B5E-44BE-A8CA-42FB6A18027F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3278B80-0B5E-44BE-A8CA-42FB6A18027F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3278B80-0B5E-44BE-A8CA-42FB6A18027F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C5C6DA-3644-4447-A8E0-6EFD9F136A09}
+	EndGlobalSection
+EndGlobal

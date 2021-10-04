@@ -1,0 +1,23 @@
+﻿<table class="table" ng-init="getStudents()">
+    <thead>
+        <tr>
+            <th scope="col">First Name</th>
+            <th scope="col">Last Name</th>
+            <th scope="col">Role</th>
+            <th scope="col">Department</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="student in students">
+            <th>{{student.FirstName}}</th>
+            <td>{{student.LastName}}</td>
+            <td>{{student.Role}}</td>
+            <td>{{student.Department}}</td>
+            <td>
+                <a ui-sref="studentEdit({studentId: student.Id})" class="btn btn-info">Edit</a>
+                <a ng-click="deleteStudent(student.Id)" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    </tbody>
+</table>

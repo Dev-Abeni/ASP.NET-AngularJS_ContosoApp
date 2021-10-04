@@ -1,0 +1,6 @@
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Domain\bin\Debug\Contoso.Domain.pdb
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.csproj.AssemblyReference.cache
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.csproj.CoreCompileInputs.cache
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.dll
+E:\Personal\Personal Projects\AngularJs\ContosoApp\Contoso.Domain\obj\Debug\Contoso.Domain.pdb

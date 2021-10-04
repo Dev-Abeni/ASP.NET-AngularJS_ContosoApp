@@ -1,0 +1,1 @@
+﻿var contosoAppModule = angular.module('contosoApp', ['ui.router', 'toastr', 'ngResource']);
